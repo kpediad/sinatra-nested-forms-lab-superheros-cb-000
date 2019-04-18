@@ -1,4 +1,3 @@
 class Team
 
 end
-  
